@@ -10,7 +10,8 @@
                 "github.copilot",
                 "alefragnani.bookmarks",
                 "eamodio.gitlens",
-                "ms-python.python"
+                "ms-python.python",
+                "ms-toolsai.jupyter"
             ]
         }
     }
